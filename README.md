@@ -1,1 +1,1 @@
-# comfyui-cbaoth-nodes
+# ComfyUI-TinkerLab
